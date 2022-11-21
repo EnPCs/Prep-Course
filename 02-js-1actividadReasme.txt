@@ -2,7 +2,7 @@
 
 Variables, forma de relacionar un determinado tipo de dato medible u observable, sobre algo o alguien, como edad, peso, talla, altura, imc.
 
-Strings, son cadenas de texto que presentan determinada información o mensaje, como 'Hola a todos', 'Cómo estan?'
+Strings, son cadenas de texto que presentan determinada información o mensaje, entre comillas, como 'Hola a todos', 'Cómo estan?'
 
 Funciones (argumentos, return), son instrucciones que al ser ingresadas arrojas un resultado, como el caso de sumar dos numeros dara el total respectivo, por ejemplo sumar 2 + 5 arrojara como resultado de la funcion suma 7
 
